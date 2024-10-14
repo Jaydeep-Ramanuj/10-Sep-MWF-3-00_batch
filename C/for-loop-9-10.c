@@ -9,6 +9,10 @@ void main()
     // 2. while
     // 3. do...while
 
+    // Entry control loops, these loops checks condition before executing the code, if condition is false it will not run code even for single time ex. for and while
+
+    // Exit control loops, these loops checks condition after executing the code, even if condition is false it will execute code for at least one time ex. do..while
+
     // 1. for loop
 
     // syntax
